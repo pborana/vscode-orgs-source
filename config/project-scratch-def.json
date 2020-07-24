@@ -1,6 +1,7 @@
 {
   "orgName": "custom-objects",
   "edition": "Developer",
+  "features": ["ChangeDataCapture"],
   "settings": {
     "communitiesSettings": {
       "enableNetworksEnabled": false
